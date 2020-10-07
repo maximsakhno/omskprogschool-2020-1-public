@@ -1,7 +1,7 @@
 # Занятие 3
 
 
-Ссылка: https://goo-gl.su/BWyD
+Ссылка: https://goo-gl.su/RrlAASQ
 
 
 ## Теория
