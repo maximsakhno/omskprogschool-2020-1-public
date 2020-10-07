@@ -1,1 +1,1 @@
-# omskprogschool-2020-1-public
+# Уроки по C++ для начинающих
