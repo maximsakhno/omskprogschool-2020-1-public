@@ -7,9 +7,7 @@
 ``` C++
 #include <iostream>
 
-
 using namespace std;
-
 
 int main() {
   if (true) {
@@ -24,9 +22,7 @@ int main() {
 ``` C++
 #include <iostream>
 
-
 using namespace std;
-
 
 int main() {
   if (true) {
@@ -39,9 +35,7 @@ int main() {
 ``` C++
 #include <iostream>
 
-
 using namespace std;
-
 
 int main() {
   int a, b, c;
@@ -60,9 +54,7 @@ int main() {
 ``` C++
 #include <iostream>
 
-
 using namespace std;
-
 
 int main() {
   int n;
